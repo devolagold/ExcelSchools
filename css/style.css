@@ -307,6 +307,10 @@ body, html{
         font-size: 12px;
         padding: 0px !important;
     }
+
+    .footer-link-text{
+        font-size: 8px;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1026px) {
