@@ -386,3 +386,14 @@ body, html{
         font-size: 10px;
     }
 }
+
+@media screen and (min-width: 970px) and (max-width: 991px){
+    .hero-text{
+        font-size: 65px !important;
+    }
+
+    .hero-image{
+        width: 100% !important;
+        margin: auto !important;
+    }
+}
